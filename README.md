@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my PhD in the field of image analysis with AI
+- 💬 Ask me about microscopy imaging, imgage analysis, cell segmentations ...
+
 <!--
 **AlexandraLoewe/AlexandraLoewe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
