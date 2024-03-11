@@ -12,7 +12,7 @@
 
 - 🤓 I’m currently working on my PhD in the field of image analysis with AI
 - 🔬 Ask me about microscopy imaging, imgage analysis, cell segmentations ...
-- :octocat: Working on Mashine Learning, Deep Learning and AI at the moment
+- :octocat: Working with Mashine Learning, Deep Learning and AI 
 <br>
 <hr>
 
