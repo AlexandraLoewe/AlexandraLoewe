@@ -1,10 +1,10 @@
-<div style="text-align:center;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" width="40%"  srcset="Images/Bild1.jpg">
-    <source media="(prefers-color-scheme: light)" width="40%" srcset="Images/BF.jpg">
-    <img alt="Shows microscopic image of fungy dyed with fluorescent probes" width="40%" src="Images/Bild1.jpg">
-  </picture>
-</div>
+
+<picture style="display: block; margin: auto;">
+  <source media="(prefers-color-scheme: dark)" width="40%"  srcset="Images/Bild1.jpg">
+  <source media="(prefers-color-scheme: light)" width="40%" srcset="Images/BF.jpg">
+  <img alt="Shows microscopic image of fungy dyed with fluorescent probes" width="40%" src="Images/Bild1.jpg">
+</picture>
+
 
 ### Hi there 👋
 
