@@ -7,8 +7,8 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on my PhD in the field of image analysis with AI
-- 💬 Ask me about microscopy imaging, imgage analysis, cell segmentations ...
+- 🤓 I’m currently working on my PhD in the field of image analysis with AI
+- 🔬 Ask me about microscopy imaging, imgage analysis, cell segmentations ...
 
 ### Languages
 
