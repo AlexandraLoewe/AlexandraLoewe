@@ -12,41 +12,52 @@
 - 🤓 I’m currently working on my PhD in the field of image analysis with AI
 - 🔬 Ask me about microscopy imaging, imgage analysis, cell segmentations ...
 
+
 ### Languages
 
-- R
-- Python
-- LaTex
+<p>
+  <img width="3%" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">&nbsp;
+  <img width="3%" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">&nbsp;
+  <img width="3%" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg">
+</p>
 
 ### Editors
 
-- Visual Studio Code
-- Anaconda Spyder
-- RStudio
-- TexMaker
+<p>
+  <img width="3%" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">&nbsp;
+  <img width="3%" src="https://github.com/devicons/devicon/blob/master/icons/spyder/spyder-original.svg">&nbsp;
+  <img width="3%" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">&nbsp;
+  <img width="3%" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg">&nbsp;
+  <img width="3%" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">&nbsp;
+</p>
+
 
 ### Platforms/OS
 
-- Windows
-- Linux
-- Linux Server
-- RaspberryPi
+<p>
+  <img width="3%" src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg">&nbsp;
+  <img width="3%" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">&nbsp;
+  <img width="3%" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg">&nbsp;
+</p>
+
 
 ### Tools
 
-- Docker
+<p>
+  <img width="3%" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">&nbsp;
+  <img width="3%" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg">&nbsp;
+  <img width="3%" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">&nbsp;
+</p>
 
-<!--
-**AlexandraLoewe/AlexandraLoewe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Packages
 
-Here are some ideas to get you started:
+<p>
+  <img width="3%" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg">&nbsp;
+  <img width="3%" src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg">&nbsp;
+  <img width="3%" src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg">&nbsp;
+  <img width="3%" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg">&nbsp;
+  <img width="3%" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg">&nbsp;
+  <img width="3%" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg">&nbsp;
+  <img width="3%" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">&nbsp;
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
