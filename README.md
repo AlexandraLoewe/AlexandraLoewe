@@ -3,9 +3,9 @@
 </p>
 
 <p align="center" width="100%">
- <source media="(prefers-color-scheme: dark)" width="40%" srcset="Images/Bild1.jpg">
- <source media="(prefers-color-scheme: light)" width="40%" srcset="Images/BF.jpg">
- <img alt="YOUR-ALT-TEXT" src="Images/Bild1.jpg">
+  <source media="(prefers-color-scheme: dark)" width="40%"  srcset="Images/Bild1.jpg">
+  <source media="(prefers-color-scheme: light)" width="40%"  srcset="Images/BF.jpg">
+  <img alt="Shows microscopic image of fungy dyed with fluorescent probes" width="40%" src="Images/Bild1.jpg">
 </p>
 
 
