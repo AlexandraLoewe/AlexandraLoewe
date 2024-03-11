@@ -6,12 +6,14 @@
   </picture>
 </p>
 
+<hr>
 
 ### Hi there 👋
 
 - 🤓 I’m currently working on my PhD in the field of image analysis with AI
 - 🔬 Ask me about microscopy imaging, imgage analysis, cell segmentations ...
-
+<br>
+<hr>
 
 ### Languages
 
@@ -20,6 +22,7 @@
   <img width="3%" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">&nbsp;
   <img width="3%" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg">
 </p>
+<br>
 
 ### Editors
 
@@ -30,6 +33,7 @@
   <img width="3%" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg">&nbsp;
   <img width="3%" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">&nbsp;
 </p>
+<br>
 
 
 ### Platforms/OS
@@ -39,7 +43,7 @@
   <img width="3%" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">&nbsp;
   <img width="3%" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg">&nbsp;
 </p>
-
+<br>
 
 ### Tools
 
@@ -48,6 +52,7 @@
   <img width="3%" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg">&nbsp;
   <img width="3%" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">&nbsp;
 </p>
+<br>
 
 ### Packages
 
