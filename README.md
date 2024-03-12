@@ -66,5 +66,8 @@
   <img width="3%" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg">&nbsp;
   <img width="3%" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">&nbsp;
   <img width="3%" src="https://camo.githubusercontent.com/4628a28297ceb159725f032b3f655ba5a3617321fb67378015c609819653a8c1/687474703a2f2f7777772e63656c6c706f73652e6f72672f7374617469632f696d616765732f6c6f676f2e706e673f7261773d54727565">Cellpose&nbsp;
+  <img width="3%" src="https://pypi-camo.freetls.fastly.net/7bc42058d2d94edfcc0533b1566dabea85076a76/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f707974686f6e2d70696c6c6f772f70696c6c6f772d6c6f676f2f6d61696e2f70696c6c6f772d6c6f676f2d323438783235302e706e67">Pillow&nbsp;
 </p>
+- Shapely
+
 
