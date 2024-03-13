@@ -14,7 +14,10 @@
 </p>
 
 
-
+[![Medium AlexLoewe](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alexloewe87)&nbsp;
+[![Linkedin: AlexandraLöwe](https://img.shields.io/badge/-AlexandraLöwe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandra-löwe-6b3006136/)](https://www.linkedin.com/in/alexandra-löwe-6b3006136/)&nbsp;
+[![GitHub Alexandra](https://img.shields.io/github/followers/AlexandraLoewe?label=follow&style=social)](https://github.com/AlexandraLoewe)&nbsp;
+<br><br>
 
 🤓 I’m currently working on my PhD in the field of image analysis with AI<br>
 🔬 Ask me about microscopy imaging, imgage analysis, cell segmentations ...<br>
@@ -22,9 +25,6 @@
 <br>
 <br>
 
-[![Medium AlexLoewe](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alexloewe87)&nbsp;
-[![Linkedin: AlexandraLöwe](https://img.shields.io/badge/-AlexandraLöwe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandra-löwe-6b3006136/)](https://www.linkedin.com/in/alexandra-löwe-6b3006136/)&nbsp;
-[![GitHub Alexandra](https://img.shields.io/github/followers/AlexandraLoewe?label=follow&style=social)](https://github.com/AlexandraLoewe)&nbsp;
 
 
 ```python
