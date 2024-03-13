@@ -132,6 +132,8 @@ class Alex:
   <img width="3%" src="https://pypi-camo.freetls.fastly.net/7bc42058d2d94edfcc0533b1566dabea85076a76/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f707974686f6e2d70696c6c6f772f70696c6c6f772d6c6f676f2f6d61696e2f70696c6c6f772d6c6f676f2d323438783235302e706e67">Pillow&nbsp; | Shapely
 </p>
 --->
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandraLoewe&show_icons=true&count_private=true)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=AlexandraLoewe)  
+
 
 
