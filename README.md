@@ -1,14 +1,20 @@
+<!---
 <p align="center">
   <picture style="display: block; margin: auto;">
     <source media="(prefers-color-scheme: dark)" width="40%"  srcset="Images/Bild1.jpg">
     <source media="(prefers-color-scheme: light)" width="40%" srcset="Images/BF.jpg">
-    <img alt="Shows microscopic image of fungy dyed with fluorescent probes" width="40%" src="Images/Bild1.jpg">
+    <img alt="Shows microscopic image of fungi dyed with fluorescent probes" width="40%" src="Images/Bild1.jpg">
   </picture>
 </p>
-
-<hr>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=false&random=false&width=500&lines=Hi+there!+I'm+Alexandra+👋;Interested+in+AI+based+Image+Analysis%3F;Allrighty!+Let's+go!)](https://git.io/typing-svg)
+--->
+
+<p align="center" >
+  <img alt="Shows microscopic image of fungi dyed with fluorescent probe" width="180%" src="Images/ezgif.com-crop_.gif">
+</p>
+
+
+
 
 🤓 I’m currently working on my PhD in the field of image analysis with AI<br>
 🔬 Ask me about microscopy imaging, imgage analysis, cell segmentations ...<br>
@@ -16,8 +22,10 @@
 <br>
 <br>
 
-[![Linkedin: AlexandraLöwe](https://img.shields.io/badge/-AlexandraLöwe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandra-löwe-6b3006136/)](https://www.linkedin.com/in/alexandra-löwe-6b3006136/)
-[![GitHub Alexandra](https://img.shields.io/github/followers/AlexandraLoewe?label=follow&style=social)](https://github.com/AlexandraLoewe)
+[![Medium AlexLoewe](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alexloewe87)&nbsp;
+[![Linkedin: AlexandraLöwe](https://img.shields.io/badge/-AlexandraLöwe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandra-löwe-6b3006136/)](https://www.linkedin.com/in/alexandra-löwe-6b3006136/)&nbsp;
+[![GitHub Alexandra](https://img.shields.io/github/followers/AlexandraLoewe?label=follow&style=social)](https://github.com/AlexandraLoewe)&nbsp;
+
 
 ```python
 class Alex:
