@@ -16,7 +16,7 @@
 
 [![Medium AlexLoewe](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alexloewe87)&nbsp;
 [![Codecademy AlexandraLöwe](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)](https://www.codecademy.com/profiles/AlexandraLoewe)&nbsp;
-[![Duolingo Alex L](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://de.duolingo.com/profile/AlexL826568)
+[![Duolingo: Alex L](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://de.duolingo.com/profile/AlexL826568)
 [![Linkedin: AlexandraLöwe](https://img.shields.io/badge/-AlexandraLöwe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandra-löwe-6b3006136/)](https://www.linkedin.com/in/alexandra-löwe-6b3006136/)&nbsp;
 [![GitHub Alexandra](https://img.shields.io/github/followers/AlexandraLoewe?label=follow&style=social)](https://github.com/AlexandraLoewe)&nbsp;
 <br>
