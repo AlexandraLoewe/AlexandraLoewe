@@ -21,6 +21,7 @@
 [![GitHub Alexandra](https://img.shields.io/github/followers/AlexandraLoewe?label=follow&style=social)](https://github.com/AlexandraLoewe)&nbsp;
 <br>
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+[![Generic badge](https://img.shields.io/badge/🤗-huggingface-yellow)](https://huggingface.co/AlexLoewe)
 <br>
 
 🤓 I’m currently working on my PhD in the field of image analysis with AI<br>
