@@ -141,9 +141,8 @@ class Alex:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandraLoewe&theme=tokyonight-duo&show_icons=true&count_private=true)  [![GitHub Streak](https://streak-stats.demolab.com?user=AlexandraLoewe&theme=tokyonight-duo&hide_border=false&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-<!---
+
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AlexandraLoewe&theme=tokyonight&exclude_days=Sun%2CSat" />
-    <img src="https://streak-stats.demolab.com?user=AlexandraLoewe&theme=tokyonight-duo&hide_border=false&exclude_days=Sun%2CSat" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AlexandraLoewe&show_icons=true&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AlexandraLoewe&show_icons=true&theme=transparent" />
 </picture>
---->
