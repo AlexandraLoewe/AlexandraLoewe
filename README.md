@@ -139,12 +139,12 @@ class Alex:
 </p>
 --->
 
-
-
-
-<picture>
+<p>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AlexandraLoewe&show_icons=true&theme=tokyonight" />
     <img src="https://github-readme-stats.vercel.app/api?username=AlexandraLoewe&show_icons=true&theme=default" />
-</picture>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AlexandraLoewe&theme=tokyonight-duo&hide_border=false&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+  </picture>
+  <picture>
+     <img src="https://github-readme-streak-stats.herokuapp.com?user=AlexandraLoewe&theme=tokyonight-duo&border_radius=3.9&exclude_days=Sun%2CSat&card_width=450&border=00000020" />
+  </picture>
+</p>
