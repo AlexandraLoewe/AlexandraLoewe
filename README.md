@@ -139,12 +139,24 @@ class Alex:
 </p>
 --->
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AlexandraLoewe&theme=dark&theme=tokyonight" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AlexandraLoewe&border_radius=3.9&exclude_days=Sun%2CSat" />
+</picture>
+
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AlexandraLoewe&show_icons=true&theme=tokyonight" />
-    <img src="https://github-readme-stats.vercel.app/api?username=AlexandraLoewe&show_icons=true&theme=default" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AlexandraLoewe&theme=dark&theme=tokyonight" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AlexandraLoewe&border_radius=3.9&exclude_days=Sun%2CSat" />
   </picture>
   <picture>
-     <img src="https://github-readme-streak-stats.herokuapp.com?user=AlexandraLoewe&theme=tokyonight-duo&border_radius=3.9&exclude_days=Sun%2CSat&card_width=450&border=00000020" />
+     <img src="https://github-readme-streak-stats.herokuapp.com?user=AlexandraLoewe&theme=tokyonight&border_radius=3.9&exclude_days=Sun%2CSat" />
   </picture>
 </p>
+<!---
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DenverCoder1&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
+</picture>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AlexandraLoewe&theme=tokyonight&border_radius=3.9&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+--->
