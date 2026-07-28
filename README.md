@@ -146,9 +146,7 @@ class Alex:
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AlexandraLoewe&theme=dark&theme=tokyonight" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=AlexandraLoewe&border_radius=3.9&exclude_days=Sun%2CSat" />
   </picture>
-  <picture>
-     <img src="https://github-readme-streak-stats.herokuapp.com?user=AlexandraLoewe&theme=tokyonight&border_radius=3.9&exclude_days=Sun%2CSat" />
-  </picture>
+
 </p>
 <!---
 <picture>
